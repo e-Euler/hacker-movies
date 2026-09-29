@@ -19,7 +19,7 @@ Movies every hacker watches even if the main activity isn't hacking
 | Title | Year | Notable Actor/Actress | Relevent Link |
 | --- | --- | --- | --- |
 | The Matrix | 1999 | Keanu Reeves | [IMDB](https://www.imdb.com/title/tt0133093/?ref_=fn_t_1) | 
-| The IT Crowd | 2006 | | [IMDB](https://www.imdb.com/title/tt0487831/) |
+| The IT Crowd | 2006 | Chris O'Dowd, Richard Ayoade, Katherine Parkinson | [IMDB](https://www.imdb.com/title/tt0487831/) |
 | Silicon Vally | 2014 | Thomas Middleditch, T.J. Miller, Josh Brener | [IMDB](https://www.imdb.com/title/tt2575988/) |
 | Person of Interest | 2011 | Jim Caviezel, Taraji P. Henson, Kevin Chapman | [IMDB](https://www.imdb.com/title/tt1839578/) | 
 
