@@ -13,6 +13,7 @@ A currated list of movies and TV shows for the person crazy about computer scien
 | Sneakers | 1992 | Robert Redford | [IMDB](https://www.imdb.com/title/tt0105435/) | 
 | CSI: Cyber | 2015 | Shad Moss, Patricia Arquette | [IMDB](https://www.imdb.com/title/tt3560060/) | 
 | Mr. Robot | 2015 | Rami Malek, Christian Slater, Carly Chaikin | [IMDB](https://www.imdb.com/title/tt4158110/) |
+| Hacker | 2016 | Callan McAuliffee | [IMDB](https://www.imdb.com/title/tt3173594/?ref_=fn_t_2) | 
 
 ## Hacker Culture Movies/TV
 Movies every hacker watches even if the main activity isn't hacking
